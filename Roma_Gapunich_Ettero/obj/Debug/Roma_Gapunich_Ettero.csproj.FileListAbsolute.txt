@@ -1,0 +1,6 @@
+K:\Project C#\ITVDN\Roma_Gapunich_Ettero\Roma_Gapunich_Ettero\bin\Debug\Roma_Gapunich_Ettero.exe.config
+K:\Project C#\ITVDN\Roma_Gapunich_Ettero\Roma_Gapunich_Ettero\bin\Debug\Roma_Gapunich_Ettero.exe
+K:\Project C#\ITVDN\Roma_Gapunich_Ettero\Roma_Gapunich_Ettero\bin\Debug\Roma_Gapunich_Ettero.pdb
+K:\Project C#\ITVDN\Roma_Gapunich_Ettero\Roma_Gapunich_Ettero\obj\Debug\Roma_Gapunich_Ettero.exe
+K:\Project C#\ITVDN\Roma_Gapunich_Ettero\Roma_Gapunich_Ettero\obj\Debug\Roma_Gapunich_Ettero.pdb
+K:\Project C#\ITVDN\Roma_Gapunich_Ettero\Roma_Gapunich_Ettero\obj\Debug\Roma_Gapunich_Ettero.csprojResolveAssemblyReference.cache

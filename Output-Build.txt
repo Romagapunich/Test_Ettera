@@ -1,0 +1,3 @@
+﻿1>------ Build started: Project: Roma_Gapunich_Ettero, Configuration: Debug Any CPU ------
+1>  Roma_Gapunich_Ettero -> K:\Project C#\ITVDN\Roma_Gapunich_Ettero\Roma_Gapunich_Ettero\bin\Debug\Roma_Gapunich_Ettero.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
